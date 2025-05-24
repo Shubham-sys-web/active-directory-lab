@@ -1,1 +1,1 @@
-# active-directory-lab
+# active-directory-lab setup
