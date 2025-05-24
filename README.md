@@ -1,4 +1,3 @@
-# active-directory-lab setup
 # **Active Directory | Lab Setup**
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*08cfxNKKPSOFWchKxE0RSA.png)
